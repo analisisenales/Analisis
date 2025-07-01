@@ -1,0 +1,2 @@
+('C:\\Users\\DELL\\Desktop\\Juegos\\doc\\Analisis\\Lunas\\build\\Lunas\\PYZ-00.pyz',
+ [])
